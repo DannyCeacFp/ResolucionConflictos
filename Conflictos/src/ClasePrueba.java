@@ -15,7 +15,7 @@ public class ClasePrueba {
 		// TODO Auto-generated method stub
 		String saludo="Hello world";
 		String salu2="Hola rama master";
-		String saludoRama="Hola rama secundaria";
+		String saludoRama="Hola rama 12341234";
 		System.out.println(saludo);
 		System.out.println(salu2);
 	}
